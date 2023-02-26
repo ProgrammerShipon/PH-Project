@@ -21,3 +21,5 @@
 # Practice-Projects
 
 - [Baper-Er-Bank](https://programmershipon.github.io/PH-Project/Baper-Er-Bank/)
+- [simple-fixe-discount](https://programmershipon.github.io/PH-Project/Discount-calculator/simple-fixe-discount)
+- [coupon-code-discount](https://programmershipon.github.io/PH-Project/Discount-calculator/coupon-code-discount)
