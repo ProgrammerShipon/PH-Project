@@ -12,4 +12,12 @@
 
 # Module-Projects
 
-- [portfolio](https://programmershipon.github.io/PH-Project/portfolio/)
+- [portfolio](https://programmershipon.github.io/PH-Project/Portfolio/)
+
+<br/>
+<hr/>
+<br/>
+
+# Practice-Projects
+
+- [Baper-Er-Bank](https://programmershipon.github.io/PH-Project/Baper-Er-Bank/)
