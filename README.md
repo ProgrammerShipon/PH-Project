@@ -5,6 +5,7 @@
 - [g3-architect](https://programmershipon.github.io/PH-Project/g3-architect/)
 - [new-year-new--me](https://programmershipon.github.io/PH-Project/new-year-new--me/)
 - [legal-solution-resource](https://programmershipon.github.io/PH-Project/legal-solution-resource/)
+- [AI-universe-hub](https://programmershipon.github.io/PH-Project/AI-universe-hub/)
 
 <br/>
 <hr/>
@@ -14,6 +15,7 @@
 
 - [portfolio](https://programmershipon.github.io/PH-Project/Portfolio/)
 - [temperature-hot-(open-weather)](https://programmershipon.github.io/PH-Project/Portfolio/)
+- [Stop-Watch - Javascript](https://programmershipon.github.io/PH-Project/Stop-Watch/)
 
 <br/>
 <hr/>
