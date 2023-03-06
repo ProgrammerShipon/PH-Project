@@ -13,11 +13,11 @@
 
 # Module-Projects
 
+- [portfolio-(html-css)](https://programmershipon.github.io/PH-Project/Portfolio/)
 - [penguin-fashion(html-tailwind)](https://programmershipon.github.io/PH-Project/penguin-fashion/)
-- [portfolio](https://programmershipon.github.io/PH-Project/Portfolio/)
 - [temperature-hot-(open-weather)](https://programmershipon.github.io/PH-Project/Portfolio/)
 - [Phone-Hanter - Javascript(api)](https://programmershipon.github.io/PH-Project/Phone-Hanter/)
-- [Stop-Watch - Javascript](https://programmershipon.github.io/PH-Project/Stop-Watch/)
+- [Stop-Watch - (Javascript)](https://programmershipon.github.io/PH-Project/Stop-Watch/)
 
 <br/>
 <hr/>
@@ -25,8 +25,9 @@
 
 # Practice-Projects
 
-- [Baper-Er-Bank](https://programmershipon.github.io/PH-Project/Baper-Er-Bank/)
 - [Abacus-Convention-Center](https://programmershipon.github.io/PH-Project/Abacus-Convention-Center/)
-- [simple-fixe-discount](https://programmershipon.github.io/PH-Project/Discount-calculator/simple-fixe-discount)
-- [coupon-code-discount](https://programmershipon.github.io/PH-Project/Discount-calculator/coupon-code-discount)
-- [money-master](https://programmershipon.github.io/PH-Project/money-master)
+- [simple-fixe-discount (javascript)](https://programmershipon.github.io/PH-Project/Discount-calculator/simple-fixe-discount/)
+- [coupon-code-discount (javascript)](https://programmershipon.github.io/PH-Project/Discount-calculator/coupon-code-discount/)
+- [money-master (javascript)](https://programmershipon.github.io/PH-Project/money-master/)
+- [pin-matcher (javascript)](https://programmershipon.github.io/PH-Project/pin-matcher/)
+- [Baper-Er-Bank-(javascript)](https://programmershipon.github.io/PH-Project/Baper-Er-Bank/)
