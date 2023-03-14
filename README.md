@@ -32,6 +32,7 @@
 - [money-master (javascript)](https://programmershipon.github.io/PH-Project/money-master/)
 - [pin-matcher (javascript)](https://programmershipon.github.io/PH-Project/pin-matcher/)
 - [Baper-Er-Bank-(javascript)](https://programmershipon.github.io/PH-Project/Baper-Er-Bank/)
+- [typing-monster (javascript)](https://programmershipon.github.io/PH-Project/typing-monster/)
 - [random_user-(javascript- Api)](https://programmershipon.github.io/PH-Project/random_user/)
 - [sports_db-(javascript- Api)](https://programmershipon.github.io/PH-Project/sports_db/)
 - [world_tour-(javascript- Api)](https://programmershipon.github.io/PH-Project/world_tour/)
