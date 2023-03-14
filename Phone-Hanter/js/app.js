@@ -1,8 +1,10 @@
+let phonesArr = 0;
 const loadPhones = async (searchText, limitData) => {
   const url = `https://openapi.programming-hero.com/api/phones?search=${searchText}`;
   const res = await fetch(url);
   const data = await res.json();
   displayPhones(data.data, limitData);
+  phonesArr = data.data;
 };
 
 const displayPhones = (phones, limitData) => {
@@ -25,6 +27,9 @@ const displayPhones = (phones, limitData) => {
   } else {
     noPhone.classList.add("d-none");
   }
+
+  const showItems = document.getElementById("show-items");
+  showItems.innerText = phones.length;
 
   //  all phones
   phones.forEach((phone) => {
@@ -80,7 +85,7 @@ function processSearch(limitData) {
 // show all phones
 document
   .getElementById("show-all-btn")
-  .addEventListener("click", () => processSearch());
+  .addEventListener("click", () => displayPhones(phonesArr));
 
 // loading spinner
 function isLoadingSpinner(isLoading) {
