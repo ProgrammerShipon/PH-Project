@@ -36,3 +36,5 @@
 - [random_user-(javascript- Api)](https://programmershipon.github.io/PH-Project/random_user/)
 - [sports_db-(javascript- Api)](https://programmershipon.github.io/PH-Project/sports_db/)
 - [world_tour-(javascript- Api)](https://programmershipon.github.io/PH-Project/world_tour/)
+- [type-monster-(javascript- Api)](https://programmershipon.github.io/PH-Project/type-monster/)
+- [fancy-slider-(javascript- Api)](https://programmershipon.github.io/PH-Project/fancy-slider/)
