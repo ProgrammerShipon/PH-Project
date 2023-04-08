@@ -20,8 +20,9 @@ const router = createBrowserRouter([
       {
         path: '/books',
         element: <Books /> ,
-        loader: () => fetch(`https://api.itbook.store/1.0/new`)
-        // loader: () => fetch(`bookData.json`)
+        // loader: () => fetch(`https://api.itbook.store/1.0/new`)
+        // loader: () => fetch(`https://raw.githubusercontent.com/ProgrammerShipon/PH-Project/master/next-page-react-route/public/bookData.json`)
+        loader: () => fetch('bookData.json')
       },
       {
         path: '/bookDetails/:id',

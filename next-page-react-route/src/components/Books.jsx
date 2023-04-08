@@ -4,6 +4,7 @@ import BookCart from "./BookCart";
 
 const Books = () => {
 	const { books } = useLoaderData();
+	console.log("books file ", books);
 
 	return (
 		<div>
